@@ -17,3 +17,23 @@ header a {
   font-weight: bold;
   text-decoration: none;
 }
+
+main {
+  padding: 1rem;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.product {
+  margin: 1rem;
+  border-radius: 14px 14px 0 0;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
+}
+
+.product:hover {
+  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2);
+}
