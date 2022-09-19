@@ -15,3 +15,6 @@
 9. npm install react-router-dom
 10. create route for home screen
 11. create router for product screen
+
+12. create backend api
+13. return the items to the screen
