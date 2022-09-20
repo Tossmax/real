@@ -17,7 +17,7 @@ main {
 
 .btn-primary {
   background-image: linear-gradient(to right, #ebf6ff, #fd9bd4, #d4fd9b);
-  filter: blur(10);
+  filter: blur(5);
   color: #000;
 }
 
@@ -29,4 +29,8 @@ main {
 
 .rating span {
   color: #ffc000;
+}
+
+.img-large {
+  max-width: 100%;
 }
