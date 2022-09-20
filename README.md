@@ -28,3 +28,7 @@
 
 20. Manage state by reducer hook
 21. install reducer
+
+22. Add booststrap UI Framework
+23. npm install react-bootstrap bootstrap
+24. update App.js
