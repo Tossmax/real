@@ -18,3 +18,13 @@
 
 12. create backend api
 13. return the items to the screen
+
+14. Fetch products from Backend
+15. set proxy in package.json
+16. npm install axios
+17. use state hook
+18. use effect hook
+19. use reducer hook
+
+20. Manage state by reducer hook
+21. install reducer
