@@ -15,18 +15,18 @@ main {
   flex: 1;
 }
 
+.btn-primary {
+  background-image: linear-gradient(to right, #ebf6ff, #fd9bd4, #d4fd9b);
+  filter: blur(10);
+  color: #000;
+}
+
 .products {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 
-.product {
-  margin: 1rem;
-  border-radius: 14px 14px 0 0;
-  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
-}
-
-.product:hover {
-  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2);
+.rating span {
+  color: #ffc000;
 }
