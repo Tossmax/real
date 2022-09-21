@@ -1,6 +1,7 @@
 const data = {
   products: [
     {
+      _id: '1',
       name: 'New Apple iPhone 13 Pro Max 512 GB Blue',
       slug: 'Iphone-13-promax',
       category: 'Smartphones',
@@ -13,6 +14,7 @@ const data = {
       description: 'Near new condition',
     },
     {
+      _id: '2',
       name: 'New Samsung Galaxy A13 64 GB Bronze',
       slug: 'samsung-galaxy-a13',
       category: 'Smartphones',
@@ -25,6 +27,7 @@ const data = {
       description: 'Condition: New',
     },
     {
+      _id: '3',
       name: 'LG Wing 5G 128 GB Black',
       slug: 'lg-wing-5g',
       category: 'Smartphones',
@@ -37,6 +40,7 @@ const data = {
       description: 'Condition: New',
     },
     {
+      _id: '4',
       name: 'Huawei Mate 20 128 GB for Sale',
       slug: 'huawei-mate-40',
       category: 'Smartphones',
