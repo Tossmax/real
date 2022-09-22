@@ -62,3 +62,13 @@
 46. create 2 columns
 47. display items list
 48. create action column
+
+49. Create Cart Screen
+50. create 2 columns
+51. display items list
+52. create action column
+
+53. complete cart screen
+54. click handler for inc/dec item
+55. click handler for remove item
+56. click handler for handler item
