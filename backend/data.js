@@ -2,7 +2,7 @@ const data = {
   products: [
     {
       _id: '1',
-      name: 'New Apple iPhone 13 Pro Max 512 GB Blue',
+      name: 'iPhone 13 Pro Max',
       slug: 'Iphone-13-promax',
       category: 'Smartphones',
       image: '/images/one.jpg',
@@ -15,7 +15,7 @@ const data = {
     },
     {
       _id: '2',
-      name: 'New Samsung Galaxy A13 64 GB Bronze',
+      name: 'Samsung Galaxy A13',
       slug: 'samsung-galaxy-a13',
       category: 'Smartphones',
       image: '/images/two.jpg',
@@ -28,7 +28,7 @@ const data = {
     },
     {
       _id: '3',
-      name: 'LG Wing 5G 128 GB Black',
+      name: 'LG Wing 5G 128GB',
       slug: 'lg-wing-5g',
       category: 'Smartphones',
       image: '/images/three.jpg',
@@ -41,8 +41,8 @@ const data = {
     },
     {
       _id: '4',
-      name: 'Huawei Mate 20 128 GB for Sale',
-      slug: 'huawei-mate-40',
+      name: 'Huawei Mate 20',
+      slug: 'huawei-mate-20',
       category: 'Smartphones',
       image: '/images/four.jpg',
       price: 395,
