@@ -72,3 +72,8 @@
 54. click handler for inc/dec item
 55. click handler for remove item
 56. click handler for handler item
+
+57. create signin screen
+58. create signin form
+59. add email and password
+60. add signin button
