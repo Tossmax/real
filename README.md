@@ -77,3 +77,9 @@
 58. create signin form
 59. add email and password
 60. add signin button
+
+61. Connect to mongoDB Database
+62. create atlas mongodb database
+63. install local mongodb database
+64. npm stall mongoose
+65. connect to mongodb database
