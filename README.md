@@ -83,3 +83,10 @@
 63. install local mongodb database
 64. npm stall mongoose
 65. connect to mongodb database
+
+66. Seed sample data
+67. create product model
+68. create user model
+69. create seed route
+70. use route in server.js
+71. seed sample product

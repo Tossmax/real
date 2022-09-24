@@ -1,7 +1,7 @@
 const data = {
   products: [
     {
-      _id: '1',
+      //_id: '1',
       name: 'iPhone 13 Pro Max',
       slug: 'Iphone-13-promax',
       category: 'Smartphones',
@@ -14,7 +14,7 @@ const data = {
       description: 'Near new condition',
     },
     {
-      _id: '2',
+      //_id: '2',
       name: 'Samsung Galaxy A13',
       slug: 'samsung-galaxy-a13',
       category: 'Smartphones',
@@ -27,7 +27,7 @@ const data = {
       description: 'Condition: New',
     },
     {
-      _id: '3',
+      //_id: '3',
       name: 'LG Wing 5G 128GB',
       slug: 'lg-wing-5g',
       category: 'Smartphones',
@@ -40,7 +40,7 @@ const data = {
       description: 'Condition: New',
     },
     {
-      _id: '4',
+      //_id: '4',
       name: 'Huawei Mate 20',
       slug: 'huawei-mate-20',
       category: 'Smartphones',
