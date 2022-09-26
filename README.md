@@ -100,3 +100,8 @@
 77. create signin api
 78. npm install jsonwebtoken
 79. define generateToken
+
+80. Create shipping screen
+81. create form inputs
+82. handle save shipping address
+83. add checkout wizard bar
