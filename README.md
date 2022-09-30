@@ -124,3 +124,9 @@
 96. create backend api for order/:id
 97. fetch order api in frontend
 98. show order information in 2 columns
+
+99. Create Profile Screen
+100. get user info from context
+101. show user information
+102. create user update api
+103. update user info
