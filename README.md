@@ -130,3 +130,7 @@
 101. show user information
 102. create user update api
 103. update user info
+
+104. Publish to render, clumsy, rail
+105. create and config node project
+106. serve build folder in frontend folder
