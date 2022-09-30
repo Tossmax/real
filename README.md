@@ -119,3 +119,8 @@
 92. show cart items, payment and address
 93. handle place order action
 94. create order create api
+
+95. Create Order Screen
+96. create backend api for order/:id
+97. fetch order api in frontend
+98. show order information in 2 columns
