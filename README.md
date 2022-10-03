@@ -134,3 +134,7 @@
 104. Publish to render, clumsy, rail
 105. create and config node project
 106. serve build folder in frontend folder
+
+107. Add Sidebar and Search Box
+108. add sidebar
+109. add search box
