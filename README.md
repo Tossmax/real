@@ -138,3 +138,8 @@
 107. Add Sidebar and Search Box
 108. add sidebar
 109. add search box
+
+110. Create Search Screen
+111. show filters
+112. create api for searching products
+113. display results
